@@ -4,14 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-{% if site.github.is_user_page %}
-    <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-{% endif %}
+[View My GitHub Profile]({{ site.github.owner_url }})
 
 ### Contact me
 
